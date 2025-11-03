@@ -29,3 +29,7 @@ the 3D view in [Helioviewer.org](https://helioviewer.org).
 - [Event Tree](https://github.com/helioviewer-project/event-tree) - React
 component for retrieving, rendering, and interacting with solar events.
 
+## Apache Superset
+
+- [Big Calendar Heatmap](https://www.npmjs.com/package/@helioviewer/superset-plugin-chart-big-calendar) - Calendar Heatmap Chart plugin
+   for apache superset which supports multi-year data in a clean compact form factor.
